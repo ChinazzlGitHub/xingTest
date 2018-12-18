@@ -1,0 +1,6 @@
+[submodule "xingLibOne"]
+	path = xingLibOne
+	url = https://github.com/ChinazzlGitHub/xingLibOne.git
+[submodule "libOne"]
+	path = libOne
+	url = https://github.com/ChinazzlGitHub/xingLibOne.git
