@@ -50,6 +50,7 @@ allprojects {
 }
 // testqq
 // test20181227-2
+// test20181228-1
 
 task clean(type: Delete) {
     delete rootProject.buildDir
